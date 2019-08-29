@@ -1,2 +1,3 @@
 # hello-world
-First GitHub project
+My First GitHub project
+print("Hello World")
